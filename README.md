@@ -6,7 +6,7 @@ The purpose of this analysis is to use several machine learning models to predic
 - Smoteenn algorithm
 - Comparing two machine learning models that reduces bias, BalancedRandomForest Classifier and EasyEnsembleClassifier. 
 
-## Results
+## Results<br/>
 **RandomOverSampler model**<br/>
 - Balanced accuracy score is 65%.<br/>
 - The high_risk precision is about 1%, with 62% sensitivity.The F1 score is about 2% only.<br/>
