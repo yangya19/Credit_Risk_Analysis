@@ -7,11 +7,10 @@ The purpose of this analysis is to use several machine learning models to predic
 - Comparing two machine learning models that reduces bias, BalancedRandomForest Classifier and EasyEnsembleClassifier. 
 
 ## Results
-balanced accuracy scores, precision, recall scores
-**RandomOverSampler model**<br/>
+**RandomOverSampler model**<br/><br/>
 - Balanced accuracy score is 65%.<br/>
 - The high_risk precision is about 1%, with 62% sensitivity.The F1 score is about 2% only.<br/>
-- low_risk precision is almost about 100% with 68% of sensitivity.<br/>
+- low_risk precision is almost about 100% with 68% of sensitivity.<br/><br/>
 **SMOTE model**<br/>
 - The balanced accuracy score is 64%.<br/>
 - The high_risk precision is about 1% only with 63% sensitivity. The F1 score is about 2% only.<br/>
